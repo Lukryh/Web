@@ -1,6 +1,6 @@
 Exercícios:
 
-[Ex.01](https://lukryh.github.io/Web/Web/Ex.01/Ex01%20-%20Jap%C3%A3o.html)
+[Ex.01]()
 
 [Ex.02](https://lukryh.github.io/Web/Web/Ex.02/Ex02%20-%20Nome.html)
 
